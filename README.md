@@ -1,7 +1,9 @@
 #### Execute 2nd
 
-Geany (micro)plugin, makes second execute entry in the build menu keybindable.
+
+Geany (micro)plugin, makes second execute entry in the build menu keybindable (currently its not, v1.24.1).
 That's all glorious functionality.
+
 
 ##### Installation:
 - Clone repo
